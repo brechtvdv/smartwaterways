@@ -1,0 +1,14 @@
+{
+  "name": "gpkg2rdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gpkg2csv.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ngageoint/geopackage": "^2.1.4"
+  }
+}

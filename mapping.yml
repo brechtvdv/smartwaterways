@@ -1,0 +1,29 @@
+prefixes:
+  api: http://example.org/
+  waterdeel: "https://data.vlaanderen.be/ns/openbaardomein/waterdeel#"
+  locn: http://www.w3.org/ns/locn#
+  geosparql: http://www.opengis.net/ont/geosparql#
+
+mappings:
+  axis:
+    sources:
+      - ['data/IENC_WTWAXS.csv~csv']
+    s: api:waterdeel/$(id)
+    po:
+      - [a, waterdeel:Waterdeel]
+      - [schema:name, $(OBJNAME)]
+      - p: locn:geometry
+        o: api:geometrie/$(id)
+          po:
+          - [a, locn:Geometry]
+          - p: geosparql:asWKT
+            o: $(WKT)
+
+  geometry:
+    sources:
+      - ['data/IENC_WTWAXS.csv~csv']
+    s: api:geometrie/$(id)
+    po:
+      - [a, locn:Geometry]
+      - p: geosparql:asWKT
+        o: $(WKT)
