@@ -1,5 +1,5 @@
 prefixes:
-  api: http://example.org/
+  api: https://brechtvdv.github.io/smartwaterways/data/output.nq#
   waterdeel: "https://data.vlaanderen.be/ns/openbaardomein/waterdeel#"
   locn: http://www.w3.org/ns/locn#
   geosparql: http://www.opengis.net/ont/geosparql#
