@@ -12,8 +12,7 @@ mappings:
     po:
       - [a, waterdeel:Waterdeel]
       - [schema:name, $(OBJNAME)]
-      - p: locn:geometry
-        o: api:geometrie/$(id)
+      - [locn:geometry, api:geometrie/$(id)~iri]
 
   geometry:
     sources:

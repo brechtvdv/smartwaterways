@@ -1,198 +1,198 @@
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/169> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.vlaanderen.be/ns/openbaardomein/waterdeel#Waterdeel>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/169> <http://schema.org/name> "Boven-Zeeschelde".
-<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/169> <http://www.w3.org/ns/locn#geometry> "https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/169".
+<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/169> <http://www.w3.org/ns/locn#geometry> <https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/169>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/170> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.vlaanderen.be/ns/openbaardomein/waterdeel#Waterdeel>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/170> <http://schema.org/name> "Boven-Zeeschelde".
-<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/170> <http://www.w3.org/ns/locn#geometry> "https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/170".
+<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/170> <http://www.w3.org/ns/locn#geometry> <https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/170>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/330> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.vlaanderen.be/ns/openbaardomein/waterdeel#Waterdeel>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/330> <http://schema.org/name> "Boven-Schelde".
-<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/330> <http://www.w3.org/ns/locn#geometry> "https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/330".
+<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/330> <http://www.w3.org/ns/locn#geometry> <https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/330>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/331> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.vlaanderen.be/ns/openbaardomein/waterdeel#Waterdeel>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/331> <http://schema.org/name> "Boven-Schelde".
-<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/331> <http://www.w3.org/ns/locn#geometry> "https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/331".
+<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/331> <http://www.w3.org/ns/locn#geometry> <https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/331>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/332> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.vlaanderen.be/ns/openbaardomein/waterdeel#Waterdeel>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/332> <http://schema.org/name> "Boven-Schelde".
-<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/332> <http://www.w3.org/ns/locn#geometry> "https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/332".
+<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/332> <http://www.w3.org/ns/locn#geometry> <https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/332>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/333> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.vlaanderen.be/ns/openbaardomein/waterdeel#Waterdeel>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/333> <http://schema.org/name> "Boven-Schelde".
-<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/333> <http://www.w3.org/ns/locn#geometry> "https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/333".
+<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/333> <http://www.w3.org/ns/locn#geometry> <https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/333>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/334> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.vlaanderen.be/ns/openbaardomein/waterdeel#Waterdeel>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/334> <http://schema.org/name> "Boven-Schelde".
-<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/334> <http://www.w3.org/ns/locn#geometry> "https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/334".
+<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/334> <http://www.w3.org/ns/locn#geometry> <https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/334>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/335> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.vlaanderen.be/ns/openbaardomein/waterdeel#Waterdeel>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/335> <http://schema.org/name> "Boven-Schelde".
-<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/335> <http://www.w3.org/ns/locn#geometry> "https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/335".
+<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/335> <http://www.w3.org/ns/locn#geometry> <https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/335>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/336> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.vlaanderen.be/ns/openbaardomein/waterdeel#Waterdeel>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/336> <http://schema.org/name> "Boven-Schelde".
-<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/336> <http://www.w3.org/ns/locn#geometry> "https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/336".
+<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/336> <http://www.w3.org/ns/locn#geometry> <https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/336>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/349> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.vlaanderen.be/ns/openbaardomein/waterdeel#Waterdeel>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/349> <http://schema.org/name> "Leie".
-<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/349> <http://www.w3.org/ns/locn#geometry> "https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/349".
+<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/349> <http://www.w3.org/ns/locn#geometry> <https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/349>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/350> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.vlaanderen.be/ns/openbaardomein/waterdeel#Waterdeel>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/350> <http://schema.org/name> "Leie".
-<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/350> <http://www.w3.org/ns/locn#geometry> "https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/350".
+<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/350> <http://www.w3.org/ns/locn#geometry> <https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/350>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/351> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.vlaanderen.be/ns/openbaardomein/waterdeel#Waterdeel>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/351> <http://schema.org/name> "Leie".
-<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/351> <http://www.w3.org/ns/locn#geometry> "https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/351".
+<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/351> <http://www.w3.org/ns/locn#geometry> <https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/351>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/352> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.vlaanderen.be/ns/openbaardomein/waterdeel#Waterdeel>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/352> <http://schema.org/name> "Leie".
-<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/352> <http://www.w3.org/ns/locn#geometry> "https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/352".
+<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/352> <http://www.w3.org/ns/locn#geometry> <https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/352>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/353> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.vlaanderen.be/ns/openbaardomein/waterdeel#Waterdeel>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/353> <http://schema.org/name> "Leie".
-<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/353> <http://www.w3.org/ns/locn#geometry> "https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/353".
+<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/353> <http://www.w3.org/ns/locn#geometry> <https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/353>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/354> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.vlaanderen.be/ns/openbaardomein/waterdeel#Waterdeel>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/354> <http://schema.org/name> "Leie".
-<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/354> <http://www.w3.org/ns/locn#geometry> "https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/354".
+<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/354> <http://www.w3.org/ns/locn#geometry> <https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/354>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/355> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.vlaanderen.be/ns/openbaardomein/waterdeel#Waterdeel>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/355> <http://schema.org/name> "Leie".
-<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/355> <http://www.w3.org/ns/locn#geometry> "https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/355".
+<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/355> <http://www.w3.org/ns/locn#geometry> <https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/355>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/359> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.vlaanderen.be/ns/openbaardomein/waterdeel#Waterdeel>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/359> <http://schema.org/name> "Kanaal Gent-Terneuzen".
-<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/359> <http://www.w3.org/ns/locn#geometry> "https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/359".
+<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/359> <http://www.w3.org/ns/locn#geometry> <https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/359>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/360> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.vlaanderen.be/ns/openbaardomein/waterdeel#Waterdeel>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/360> <http://schema.org/name> "Kanaal Gent-Terneuzen".
-<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/360> <http://www.w3.org/ns/locn#geometry> "https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/360".
+<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/360> <http://www.w3.org/ns/locn#geometry> <https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/360>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/361> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.vlaanderen.be/ns/openbaardomein/waterdeel#Waterdeel>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/361> <http://schema.org/name> "Kanaal Gent-Terneuzen".
-<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/361> <http://www.w3.org/ns/locn#geometry> "https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/361".
+<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/361> <http://www.w3.org/ns/locn#geometry> <https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/361>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/362> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.vlaanderen.be/ns/openbaardomein/waterdeel#Waterdeel>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/362> <http://schema.org/name> "Kanaal Gent-Terneuzen".
-<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/362> <http://www.w3.org/ns/locn#geometry> "https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/362".
+<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/362> <http://www.w3.org/ns/locn#geometry> <https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/362>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/363> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.vlaanderen.be/ns/openbaardomein/waterdeel#Waterdeel>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/363> <http://schema.org/name> "Kanaal Gent-Terneuzen".
-<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/363> <http://www.w3.org/ns/locn#geometry> "https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/363".
+<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/363> <http://www.w3.org/ns/locn#geometry> <https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/363>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/364> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.vlaanderen.be/ns/openbaardomein/waterdeel#Waterdeel>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/364> <http://schema.org/name> "Kanaal Gent-Terneuzen".
-<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/364> <http://www.w3.org/ns/locn#geometry> "https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/364".
+<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/364> <http://www.w3.org/ns/locn#geometry> <https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/364>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/365> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.vlaanderen.be/ns/openbaardomein/waterdeel#Waterdeel>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/365> <http://schema.org/name> "Kanaal Gent-Terneuzen".
-<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/365> <http://www.w3.org/ns/locn#geometry> "https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/365".
+<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/365> <http://www.w3.org/ns/locn#geometry> <https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/365>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/366> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.vlaanderen.be/ns/openbaardomein/waterdeel#Waterdeel>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/366> <http://schema.org/name> "Kanaal Gent-Terneuzen".
-<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/366> <http://www.w3.org/ns/locn#geometry> "https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/366".
+<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/366> <http://www.w3.org/ns/locn#geometry> <https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/366>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/367> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.vlaanderen.be/ns/openbaardomein/waterdeel#Waterdeel>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/367> <http://schema.org/name> "Kanaal Gent-Terneuzen".
-<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/367> <http://www.w3.org/ns/locn#geometry> "https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/367".
+<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/367> <http://www.w3.org/ns/locn#geometry> <https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/367>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/372> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.vlaanderen.be/ns/openbaardomein/waterdeel#Waterdeel>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/372> <http://schema.org/name> "Kanaal Gent-Oostende".
-<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/372> <http://www.w3.org/ns/locn#geometry> "https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/372".
+<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/372> <http://www.w3.org/ns/locn#geometry> <https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/372>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/373> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.vlaanderen.be/ns/openbaardomein/waterdeel#Waterdeel>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/373> <http://schema.org/name> "Kanaal Gent-Oostende".
-<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/373> <http://www.w3.org/ns/locn#geometry> "https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/373".
+<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/373> <http://www.w3.org/ns/locn#geometry> <https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/373>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/374> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.vlaanderen.be/ns/openbaardomein/waterdeel#Waterdeel>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/374> <http://schema.org/name> "Kanaal Gent-Oostende".
-<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/374> <http://www.w3.org/ns/locn#geometry> "https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/374".
+<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/374> <http://www.w3.org/ns/locn#geometry> <https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/374>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/375> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.vlaanderen.be/ns/openbaardomein/waterdeel#Waterdeel>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/375> <http://schema.org/name> "Kanaal Gent-Oostende".
-<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/375> <http://www.w3.org/ns/locn#geometry> "https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/375".
+<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/375> <http://www.w3.org/ns/locn#geometry> <https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/375>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/376> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.vlaanderen.be/ns/openbaardomein/waterdeel#Waterdeel>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/376> <http://schema.org/name> "Kanaal Gent-Oostende".
-<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/376> <http://www.w3.org/ns/locn#geometry> "https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/376".
+<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/376> <http://www.w3.org/ns/locn#geometry> <https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/376>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/411> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.vlaanderen.be/ns/openbaardomein/waterdeel#Waterdeel>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/411> <http://schema.org/name> "Ringvaart om Gent".
-<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/411> <http://www.w3.org/ns/locn#geometry> "https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/411".
+<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/411> <http://www.w3.org/ns/locn#geometry> <https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/411>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/412> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.vlaanderen.be/ns/openbaardomein/waterdeel#Waterdeel>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/412> <http://schema.org/name> "Ringvaart om Gent".
-<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/412> <http://www.w3.org/ns/locn#geometry> "https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/412".
+<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/412> <http://www.w3.org/ns/locn#geometry> <https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/412>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/413> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.vlaanderen.be/ns/openbaardomein/waterdeel#Waterdeel>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/413> <http://schema.org/name> "Ringvaart om Gent".
-<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/413> <http://www.w3.org/ns/locn#geometry> "https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/413".
+<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/413> <http://www.w3.org/ns/locn#geometry> <https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/413>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/414> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.vlaanderen.be/ns/openbaardomein/waterdeel#Waterdeel>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/414> <http://schema.org/name> "Ringvaart om Gent".
-<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/414> <http://www.w3.org/ns/locn#geometry> "https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/414".
+<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/414> <http://www.w3.org/ns/locn#geometry> <https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/414>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/415> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.vlaanderen.be/ns/openbaardomein/waterdeel#Waterdeel>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/415> <http://schema.org/name> "Ringvaart om Gent".
-<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/415> <http://www.w3.org/ns/locn#geometry> "https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/415".
+<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/415> <http://www.w3.org/ns/locn#geometry> <https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/415>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/416> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.vlaanderen.be/ns/openbaardomein/waterdeel#Waterdeel>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/416> <http://schema.org/name> "Ringvaart om Gent".
-<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/416> <http://www.w3.org/ns/locn#geometry> "https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/416".
+<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/416> <http://www.w3.org/ns/locn#geometry> <https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/416>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/417> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.vlaanderen.be/ns/openbaardomein/waterdeel#Waterdeel>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/417> <http://schema.org/name> "Ringvaart om Gent".
-<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/417> <http://www.w3.org/ns/locn#geometry> "https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/417".
+<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/417> <http://www.w3.org/ns/locn#geometry> <https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/417>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/418> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.vlaanderen.be/ns/openbaardomein/waterdeel#Waterdeel>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/418> <http://schema.org/name> "Ringvaart om Gent".
-<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/418> <http://www.w3.org/ns/locn#geometry> "https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/418".
+<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/418> <http://www.w3.org/ns/locn#geometry> <https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/418>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/419> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.vlaanderen.be/ns/openbaardomein/waterdeel#Waterdeel>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/419> <http://schema.org/name> "Ringvaart om Gent".
-<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/419> <http://www.w3.org/ns/locn#geometry> "https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/419".
+<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/419> <http://www.w3.org/ns/locn#geometry> <https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/419>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/420> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.vlaanderen.be/ns/openbaardomein/waterdeel#Waterdeel>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/420> <http://schema.org/name> "Muinkschelde".
-<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/420> <http://www.w3.org/ns/locn#geometry> "https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/420".
+<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/420> <http://www.w3.org/ns/locn#geometry> <https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/420>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/421> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.vlaanderen.be/ns/openbaardomein/waterdeel#Waterdeel>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/421> <http://schema.org/name> "Ketelvaart".
-<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/421> <http://www.w3.org/ns/locn#geometry> "https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/421".
+<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/421> <http://www.w3.org/ns/locn#geometry> <https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/421>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/422> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.vlaanderen.be/ns/openbaardomein/waterdeel#Waterdeel>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/422> <http://schema.org/name> "Reep".
-<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/422> <http://www.w3.org/ns/locn#geometry> "https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/422".
+<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/422> <http://www.w3.org/ns/locn#geometry> <https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/422>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/423> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.vlaanderen.be/ns/openbaardomein/waterdeel#Waterdeel>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/423> <http://schema.org/name> "Reep".
-<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/423> <http://www.w3.org/ns/locn#geometry> "https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/423".
+<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/423> <http://www.w3.org/ns/locn#geometry> <https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/423>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/424> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.vlaanderen.be/ns/openbaardomein/waterdeel#Waterdeel>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/424> <http://schema.org/name> "Doortocht Gent".
-<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/424> <http://www.w3.org/ns/locn#geometry> "https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/424".
+<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/424> <http://www.w3.org/ns/locn#geometry> <https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/424>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/425> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.vlaanderen.be/ns/openbaardomein/waterdeel#Waterdeel>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/425> <http://schema.org/name> "Doortocht Gent".
-<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/425> <http://www.w3.org/ns/locn#geometry> "https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/425".
+<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/425> <http://www.w3.org/ns/locn#geometry> <https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/425>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/426> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.vlaanderen.be/ns/openbaardomein/waterdeel#Waterdeel>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/426> <http://schema.org/name> "Doortocht Gent".
-<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/426> <http://www.w3.org/ns/locn#geometry> "https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/426".
+<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/426> <http://www.w3.org/ns/locn#geometry> <https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/426>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/427> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.vlaanderen.be/ns/openbaardomein/waterdeel#Waterdeel>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/427> <http://schema.org/name> "Doortocht Gent".
-<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/427> <http://www.w3.org/ns/locn#geometry> "https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/427".
+<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/427> <http://www.w3.org/ns/locn#geometry> <https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/427>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/428> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.vlaanderen.be/ns/openbaardomein/waterdeel#Waterdeel>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/428> <http://schema.org/name> "Doortocht Gent".
-<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/428> <http://www.w3.org/ns/locn#geometry> "https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/428".
+<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/428> <http://www.w3.org/ns/locn#geometry> <https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/428>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/429> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.vlaanderen.be/ns/openbaardomein/waterdeel#Waterdeel>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/429> <http://schema.org/name> "Doortocht Gent".
-<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/429> <http://www.w3.org/ns/locn#geometry> "https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/429".
+<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/429> <http://www.w3.org/ns/locn#geometry> <https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/429>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/430> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.vlaanderen.be/ns/openbaardomein/waterdeel#Waterdeel>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/430> <http://schema.org/name> "Houtdok".
-<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/430> <http://www.w3.org/ns/locn#geometry> "https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/430".
+<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/430> <http://www.w3.org/ns/locn#geometry> <https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/430>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/431> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.vlaanderen.be/ns/openbaardomein/waterdeel#Waterdeel>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/431> <http://schema.org/name> "Verbindingskanaal Gent".
-<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/431> <http://www.w3.org/ns/locn#geometry> "https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/431".
+<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/431> <http://www.w3.org/ns/locn#geometry> <https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/431>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/432> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.vlaanderen.be/ns/openbaardomein/waterdeel#Waterdeel>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/432> <http://schema.org/name> "Verbindingskanaal Gent".
-<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/432> <http://www.w3.org/ns/locn#geometry> "https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/432".
+<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/432> <http://www.w3.org/ns/locn#geometry> <https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/432>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/476> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.vlaanderen.be/ns/openbaardomein/waterdeel#Waterdeel>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/476> <http://schema.org/name> "Grootdok".
-<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/476> <http://www.w3.org/ns/locn#geometry> "https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/476".
+<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/476> <http://www.w3.org/ns/locn#geometry> <https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/476>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/477> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.vlaanderen.be/ns/openbaardomein/waterdeel#Waterdeel>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/477> <http://schema.org/name> "Grootdok".
-<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/477> <http://www.w3.org/ns/locn#geometry> "https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/477".
+<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/477> <http://www.w3.org/ns/locn#geometry> <https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/477>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/478> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.vlaanderen.be/ns/openbaardomein/waterdeel#Waterdeel>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/478> <http://schema.org/name> "Grootdok".
-<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/478> <http://www.w3.org/ns/locn#geometry> "https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/478".
+<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/478> <http://www.w3.org/ns/locn#geometry> <https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/478>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/479> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.vlaanderen.be/ns/openbaardomein/waterdeel#Waterdeel>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/479> <http://schema.org/name> "Grootdok".
-<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/479> <http://www.w3.org/ns/locn#geometry> "https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/479".
+<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/479> <http://www.w3.org/ns/locn#geometry> <https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/479>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/480> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.vlaanderen.be/ns/openbaardomein/waterdeel#Waterdeel>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/480> <http://schema.org/name> "Zuiddok".
-<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/480> <http://www.w3.org/ns/locn#geometry> "https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/480".
+<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/480> <http://www.w3.org/ns/locn#geometry> <https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/480>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/481> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.vlaanderen.be/ns/openbaardomein/waterdeel#Waterdeel>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/481> <http://schema.org/name> "Middendok".
-<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/481> <http://www.w3.org/ns/locn#geometry> "https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/481".
+<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/481> <http://www.w3.org/ns/locn#geometry> <https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/481>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/482> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.vlaanderen.be/ns/openbaardomein/waterdeel#Waterdeel>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/482> <http://schema.org/name> "Noorddok".
-<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/482> <http://www.w3.org/ns/locn#geometry> "https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/482".
+<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/482> <http://www.w3.org/ns/locn#geometry> <https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/482>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/483> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.vlaanderen.be/ns/openbaardomein/waterdeel#Waterdeel>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/483> <http://schema.org/name> "Sifferdok".
-<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/483> <http://www.w3.org/ns/locn#geometry> "https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/483".
+<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/483> <http://www.w3.org/ns/locn#geometry> <https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/483>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/484> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.vlaanderen.be/ns/openbaardomein/waterdeel#Waterdeel>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/484> <http://schema.org/name> "Langerbrugge".
-<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/484> <http://www.w3.org/ns/locn#geometry> "https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/484".
+<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/484> <http://www.w3.org/ns/locn#geometry> <https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/484>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/485> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.vlaanderen.be/ns/openbaardomein/waterdeel#Waterdeel>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/485> <http://schema.org/name> "Mercatordok".
-<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/485> <http://www.w3.org/ns/locn#geometry> "https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/485".
+<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/485> <http://www.w3.org/ns/locn#geometry> <https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/485>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/618> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.vlaanderen.be/ns/openbaardomein/waterdeel#Waterdeel>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/618> <http://schema.org/name> "Ringvaart om Gent".
-<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/618> <http://www.w3.org/ns/locn#geometry> "https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/618".
+<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/618> <http://www.w3.org/ns/locn#geometry> <https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/618>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/857> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.vlaanderen.be/ns/openbaardomein/waterdeel#Waterdeel>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/857> <http://schema.org/name> "Kanaal Gent-Terneuzen".
-<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/857> <http://www.w3.org/ns/locn#geometry> "https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/857".
+<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/857> <http://www.w3.org/ns/locn#geometry> <https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/857>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/859> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.vlaanderen.be/ns/openbaardomein/waterdeel#Waterdeel>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/859> <http://schema.org/name> "Sifferdok".
-<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/859> <http://www.w3.org/ns/locn#geometry> "https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/859".
+<https://brechtvdv.github.io/smartwaterways/data/output.nq#waterdeel/859> <http://www.w3.org/ns/locn#geometry> <https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/859>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/169> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/locn#Geometry>.
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/169> <http://www.opengis.net/ont/geosparql#asWKT> "LINESTRING Z (3.78791908117562 51.0290166937393 0,3.78770862528242 51.0286823223105 0,3.78750142283068 51.0283402562242 0,3.7874589156809 51.0282700650091 0,3.78733322790495 51.0279829654865 0,3.78724308599993 51.0277481251003 0,3.78723462716073 51.027656662282 0,3.7872252390579 51.0273252526966 0,3.7872317676608 51.027278136065 0,3.7872694118172 51.0270059372035 0,3.7873670169612 51.0267515182301 0,3.78758697950391 51.0264212395322 0,3.78790255355704 51.0259979608803 0,3.78833119826123 51.0254204604545 0,3.78854894344527 51.0250632819699 0,3.78869448393701 51.0247953081411 0,3.78874127903524 51.0246052079895 0,3.78874240609188 51.0245141069892 0,3.78874418735507 51.0243701251559 0,3.78871758094688 51.0240482761702 0,3.78871278223536 51.0239902895453 0,3.78854704874864 51.0234714743445 0,3.78826408134114 51.0228690203301 0,3.78824806956112 51.0228349259446 0,3.78798729606225 51.0222674499247 0,3.78796343906765 51.0220819998318 0,3.78791752014875 51.0217250149007 0,3.78798027013345 51.021291652882 0,3.78811907461918 51.020894802494 0,3.78841028553331 51.0205468851379 0,3.78897365857099 51.020074231051 0,3.78951543594171 51.0195709494007 0,3.79007573222568 51.0191159298917 0,3.7901437690741 51.0190572221089 0,3.79061702698927 51.0186487688125 0,3.79079540267033 51.0184777320063 0,3.79121703451996 51.0180734817985 0,3.7912947206604 51.0179450275775 0,3.79162929078222 51.0173917378648 0,3.79211775529086 51.0165508767811 0,3.79256916749577 51.015613457859 0,3.79290281568492 51.014902882544 0,3.79306012499581 51.0145678009574 0,3.79313262139336 51.0144375042327 0,3.79372726785598 51.0133685829069 0,3.79415593835868 51.0127201610712 0,3.79452621219759 51.0121557729742 0,3.79516770701796 51.0113035892118 0,3.79631139718175 51.0101923427351 0,3.79732684064863 51.0093133499068 0,3.79743234177193 51.0092220174173 0,3.79749650743702 51.00917737283 0,3.79822255511004 51.0086722197782 0,3.79830528588564 51.0086146570644 0,3.79885947758781 51.0082290621821 0,3.79994924051822 51.0075635072979 0,3.80032601000251 51.0073334004917 0)".
 <https://brechtvdv.github.io/smartwaterways/data/output.nq#geometrie/170> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/locn#Geometry>.
