@@ -14,10 +14,6 @@ mappings:
       - [schema:name, $(OBJNAME)]
       - p: locn:geometry
         o: api:geometrie/$(id)
-          po:
-          - [a, locn:Geometry]
-          - p: geosparql:asWKT
-            o: $(WKT)
 
   geometry:
     sources:
