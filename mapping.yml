@@ -1,24 +1,56 @@
 prefixes:
   api: https://brechtvdv.github.io/smartwaterways/data/output.nq#
   waterdeel: "https://data.vlaanderen.be/ns/openbaardomein/waterdeel#"
+  watervoorkomen: "https://data.vlaanderen.be/ns/openbaardomein/watervoorkomen#"
+  netwerk: "https://data.vlaanderen.be/ns/netwerk#"
   locn: http://www.w3.org/ns/locn#
   geosparql: http://www.opengis.net/ont/geosparql#
+  rdfs: "http://www.w3.org/2000/01/rdf-schema#"
+
 
 mappings:
+### INSPIRE alignment
   axis:
     sources:
       - ['data/IENC_WTWAXS.csv~csv']
-    s: api:waterdeel/$(id)
+    s: api:waterwegas/$(id)
     po:
-      - [a, waterdeel:Waterdeel]
-      - [schema:name, $(OBJNAME)]
-      - [locn:geometry, api:geometrie/$(id)~iri]
+      - [a, netwerk:Link]
+      - [rdfs:label, $(OBJNAME)]
+      - [locn:geometry, api:waterwegas/geometrie/$(id)~iri]
 
   geometry:
     sources:
       - ['data/IENC_WTWAXS.csv~csv']
-    s: api:geometrie/$(id)
+    s: api:waterwegas/geometrie/$(id)
     po:
       - [a, locn:Geometry]
       - p: geosparql:asWKT
         o: $(WKT)
+
+### OSLO alignment
+  areas:
+    sources:
+      - ['data/IENC_WTWARE.csv~csv']
+    s: api:waterdeel/$(id)
+    po:
+      - [a, waterdeel:Waterdeel]
+      - [rdfs:label, $(OBJNAME)]
+      - [locn:geometry, api:waterdeel/geometrie/$(id)~iri]
+      - [waterdeel:voorkomen, api:watervoorkomen/$(id)~iri]
+
+  geometry:
+    sources:
+      - ['data/IENC_WTWARE.csv~csv']
+    s: api:waterdeel/geometrie/$(id)
+    po:
+      - [a, locn:Geometry]
+      - p: geosparql:asWKT
+        o: $(WKT)
+
+  watervoorkomen:
+    sources:
+      - ['data/IENC_WTWARE.csv~csv']
+    s: api:watervoorkomen/$(id)
+    po:
+      - [a, watervoorkomen:DiepWater]
