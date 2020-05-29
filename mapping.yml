@@ -19,7 +19,7 @@ mappings:
       - [rdfs:label, $(OBJNAME)]
       - [locn:geometry, api:waterwegas/geometrie/$(id)~iri]
 
-  geometry:
+  axisgeometry:
     sources:
       - ['data/IENC_WTWAXS.csv~csv']
     s: api:waterwegas/geometrie/$(id)
@@ -39,7 +39,7 @@ mappings:
       - [locn:geometry, api:waterdeel/geometrie/$(id)~iri]
       - [waterdeel:voorkomen, api:watervoorkomen/$(id)~iri]
 
-  geometry:
+  areageometry:
     sources:
       - ['data/IENC_WTWARE.csv~csv']
     s: api:waterdeel/geometrie/$(id)
