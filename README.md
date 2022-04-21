@@ -34,4 +34,9 @@ java -jar rmlmapper-4.7.0-r156.jar -m mapping.ttl -o data/output.nq
 The output file can be queried with query engines, such as Comunica.
 An example query to retrieve the label and geometry is provided [here](http://query.linkeddatafragments.org/#datasources=https%3A%2F%2Fbrechtvdv.github.io%2Fsmartwaterways%2Fdata%2Foutput.nq&query=PREFIX%20locn%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2Fns%2Flocn%23%3E%0APREFIX%20rdfs%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23%3E%0APREFIX%20geosparql%3A%20%3Chttp%3A%2F%2Fwww.opengis.net%2Font%2Fgeosparql%23%3E%0Aselect%20*%0Awhere%20%7B%0A%20%20%3Fs%20rdfs%3Alabel%20%3Flabel%20%3B%0A%20%20%20%20%20locn%3Ageometry%20%5B%20geosparql%3AasWKT%20%3Fwkt%20%5D%20.%0A%7D).
 
-[Comunica query over waterways](https://github.com/brechtvdv/smartwaterways/blob/master/example-query.PNG?raw=true | width=100)
+<img src="https://github.com/brechtvdv/smartwaterways/blob/master/example-query.PNG?raw=true" width="500" height="400">
+
+Also, a more advanced GUI can be found here: https://julianrojas87.github.io/ghent-waterways/
+<img src="https://github.com/brechtvdv/smartwaterways/blob/master/map-ghent.PNG?raw=true" width="400" height="400">
+
+Source code: https://github.com/julianrojas87/ghent-waterways 
