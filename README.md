@@ -37,6 +37,6 @@ An example query to retrieve the label and geometry is provided [here](http://qu
 <img src="https://github.com/brechtvdv/smartwaterways/blob/master/example-query.PNG?raw=true" width="500" height="400">
 
 Also, a more advanced GUI can be found here: https://julianrojas87.github.io/ghent-waterways/
-<img src="https://github.com/brechtvdv/smartwaterways/blob/master/map-ghent.PNG?raw=true" width="400" height="400">
+<img src="https://github.com/brechtvdv/smartwaterways/blob/master/gui-ghent.PNG?raw=true" width="400" height="400">
 
 Source code: https://github.com/julianrojas87/ghent-waterways 
